@@ -34,7 +34,7 @@
   <samp>
     ✌️ &emsp; Enjoys typing codes but not debugging <br/><br/>
     ❤️ &emsp; Sudden curiosity about why the code runs perfectly <br/><br/>
-    📧 &emsp; If you are also curious, contact me: markuusche@gmail.com <br/><br/>
+    📧 &emsp; If you are also curious, contact me @ <a href="mailto:markuusche@gmail.com">markuusche@gmail.com</a><br/><br/>
     💬 &emsp; I do fantasize about how the code will function.
   </samp>
 </p>
@@ -84,3 +84,4 @@
 
 <hr/>
 <br/>
+
