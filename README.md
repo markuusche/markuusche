@@ -1,6 +1,6 @@
 
 <h3 align="center">
-        <samp>&gt; Hey Boss!, It's ya boy
+        <samp>&gt; Hey there!, It's ya boy
                 <b><a target="_blank" href="https://github.com/gloofo">gloofo</a></b>
         </samp>
 </h3>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href="https://facebook.com/dhunesdjiz" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0077B5?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-16537e?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a> 
 </p>
 <br />
