@@ -50,8 +50,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc" alt="Python">
   <img src="https://img.shields.io/badge/Robot_Framework-6aa84f?style=for-the-badge&labelColor=black&logo=robotframework&logoColor=FFFFFF" alt="Robot Framework">
-  <img src="https://img.shields.io/badge/VB.NET-593D88?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VB.NET">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript">
+  <img src="https://img.shields.io/badge/VB.NET-593D88?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VB.NET">
   <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
