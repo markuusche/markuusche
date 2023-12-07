@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I do things as a progammer 🤪 」
+    「 I like to type codes that glows 」
     <br>
     <br>
   </samp>
