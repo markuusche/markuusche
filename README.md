@@ -27,7 +27,12 @@
 <br />
 
 
- <h1 align="center"> <samp>About me </samp></h1>
+ <h1 align="center">
+ <samp>About me </samp>
+         
+ </h1>
+ 
+ 
 
 
 <p align="center">
@@ -45,9 +50,11 @@
 
   
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-007acc?style=for-the-badge&logo=python&logoColor=white" alt="Javascript">
+  <img src="https://img.shields.io/badge/Python-007acc?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Robot_Framework-3C8900?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=Javascript&logoColor=black" alt="Javascript">
+  <img src="https://img.shields.io/badge/HTML-F05032?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/VB.NET-593D88?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VB.NET">
 </p>
 <p align="center">
@@ -60,6 +67,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Gitlab-F05032?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab">
   <img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Github">
+
 </p>
 
 
