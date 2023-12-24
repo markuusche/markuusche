@@ -1,11 +1,3 @@
-
-<h3 align="center">
-        <samp>&gt; Hey there!, It's ya boy
-                <b><a target="_blank" href="https://github.com/gloofo">gloofo</a></b>
-        </samp>
-</h3>
-
-
 <p align="center"> 
   <samp>
     <br>
@@ -15,37 +7,34 @@
   </samp>
 </p>
 
-<p align="center">
 
- <a href="https://www.linkedin.com/in/markuusche" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://facebook.com/dhunesdjiz" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-16537e?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a> 
-</p>
-<br />
 
 
  <h1 align="center">
- <samp>About me </samp>
+ <samp>About me 
          
  </h1>
- 
- 
+ </samp>
 
 
 <p align="center">
   <samp>
-    ✌️ &emsp; Enjoys typing codes but not debugging <br/><br/>
-    ❤️ &emsp; Sudden curiosity about why the code runs perfectly <br/><br/>
-    📧 &emsp; If you are also curious, contact me @ <a href="mailto:markuusche@gmail.com">markuusche@gmail.com</a><br/><br/>
+    ✌️ &emsp; Enjoys typing codes but not debugging <br/>
+    ❤️ &emsp; Sudden curiosity about why the code runs perfectly <br/>
+    📧 &emsp; If you are also curious, contact me @ <a href="mailto:markuusche@gmail.com">markuusche@gmail.com</a><br/>
     💬 &emsp; I do fantasize about how the code will function.
   </samp>
 </p>
-
-<br/>
-
+<br />
+<p align="center">
+        <a href="https://www.linkedin.com/in/markuusche" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://facebook.com/dhunesdjiz" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-16537e?&style=for-the-badge&logo=facebook&logoColor=white" />
+        </a> 
+        </p>
+</p>
 <h1 align="center"> <samp>What I know</samp></h1>
 
   
