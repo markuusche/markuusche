@@ -27,13 +27,15 @@
 </p>
 <br />
 <p align="center">
-        <a href="https://www.linkedin.com/in/markuusche" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="https://facebook.com/dhunesdjiz" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-16537e?&style=for-the-badge&logo=facebook&logoColor=white" />
-        </a> 
-        </p>
+      <a href="https://www.linkedin.com/in/markuusche" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0088CC?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://facebook.com/dhunesdjiz" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-0078d7?&style=for-the-badge&logo=facebook&logoColor=white" />
+      </a>
+      <a href="t.me/gloofo" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-0088CC?&style=for-the-badge&logo=telegram&logoColor=white" />
+      </a> 
 </p>
 <h1 align="center"> <samp>What I know</samp></h1>
 
