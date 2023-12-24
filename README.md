@@ -33,7 +33,7 @@
       <a href="https://facebook.com/dhunesdjiz" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-0078d7?&style=for-the-badge&logo=facebook&logoColor=white" />
       </a>
-      <a href="t.me/gloofo" target="_blank">
+      <a href="https://t.me/gloofo" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-0088CC?&style=for-the-badge&logo=telegram&logoColor=white" />
       </a> 
 </p>
