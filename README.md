@@ -39,28 +39,31 @@
   </samp>
 </p>
 
-
-
-<br/>
 <br/>
 
 <h1 align="center"> <samp>What I know</samp></h1>
 
   
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc" alt="Python">
-  <img src="https://img.shields.io/badge/Robot_Framework-6aa84f?style=for-the-badge&labelColor=black&logo=robotframework&logoColor=FFFFFF" alt="Robot Framework">
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript">
+  <img src="https://img.shields.io/badge/Python-007acc?style=for-the-badge&logo=python&logoColor=white" alt="Javascript">
+  <img src="https://img.shields.io/badge/Robot_Framework-3C8900?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework">
+  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=Javascript&logoColor=black" alt="Javascript">
   <img src="https://img.shields.io/badge/VB.NET-593D88?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VB.NET">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Jira-0078d7?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Selenium-3C8900?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gitlab-F05032?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab">
+  <img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Github">
 </p>
 
 
-<br/>
-
 <h1 align="center"> <samp>Public Repos</samp></h1>
-
 <p align="center">
   <a href="https://github.com/gloofo/UI-Shopping-Automation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gloofo&repo=UI-Shopping-Automation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="UI Shopping Automation">
