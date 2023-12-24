@@ -44,19 +44,16 @@
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=Javascript&logoColor=black" alt="Javascript">
   <img src="https://img.shields.io/badge/HTML-F05032?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+ <br>
   <img src="https://img.shields.io/badge/VB.NET-593D88?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VB.NET">
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Jira-0078d7?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Selenium-3C8900?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-</p>
-<p align="center">
+  <br>
   <img src="https://img.shields.io/badge/Gitlab-F05032?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab">
   <img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Github">
-
 </p>
 
 
