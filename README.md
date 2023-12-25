@@ -49,7 +49,7 @@
  <br>
   <img src="https://img.shields.io/badge/VB.NET-593D88?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VB.NET">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/JSON-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/JSON-17202C?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
   <img src="https://img.shields.io/badge/Jira-0078d7?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Selenium-3C8900?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
