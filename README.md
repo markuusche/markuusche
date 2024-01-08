@@ -52,7 +52,8 @@
   <img src="https://img.shields.io/badge/JSON-17202C?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
   <img src="https://img.shields.io/badge/Jira-0078d7?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Selenium-3C8900?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Swagger-7CFF00?style=for-the-badge&logo=swagger&logoColor=black" alt="Selenium">
+  <img src="https://img.shields.io/badge/Selenium-3C8900?style=for-the-badge&logo=selenium&logoColor=white" alt="Swagger">
   <br>
   <img src="https://img.shields.io/badge/Gitlab-F05032?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab">
   <img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Github">
