@@ -74,9 +74,6 @@
   <a href="https://github.com/gloofo/Pytest-API">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gloofo&repo=Pytest-API&border_color=0078d7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7" alt="Pytest-API">
   </a>
-    <a href="https://github.com/gloofo/Appium-Mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gloofo&repo=Appium-Mobile&border_color=0078d7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7" alt="Appium-Mobile">
-  </a>
   <a href="https://github.com/gloofo/Red-X-Cross">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gloofo&repo=Red-X-Cross&border_color=0078d7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7" alt="Red-X-Cross">
   </a>
