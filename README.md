@@ -1,3 +1,4 @@
+Hello there !  👋<br>
 <p align="center"> 
   <samp>
     <br>
@@ -8,8 +9,6 @@
 </p>
 
 
-
-
  <h1 align="center">
  <samp>About me 
          
@@ -17,15 +16,15 @@
  </samp>
 
 
-<p align="center">
-  <samp>
-    ✌️ &emsp; Enjoys typing codes but not debugging <br/>
-    ❤️ &emsp; Sudden curiosity about why the code runs perfectly <br/>
-    📧 &emsp; If you are also curious, contact me @ <a href="mailto:markuusche@gmail.com">markuusche@gmail.com</a><br/>
-    💬 &emsp; I do fantasize about how the code will function.
-  </samp>
-</p>
-<br />
+ <p align="center"> <samp>
+I enjoy writing code, but debugging isn't my favorite part. <br>
+Lately, I've been curious about why the code works. <br>
+If you're curious too, you can reach out to me @ <a href="mailto:markuusche@gmail.com">markuusche@gmail.com</a> <br>
+I do enjoy fantasizing about how the code will work.
+</samp>
+ </p>
+
+<h1 align="center"><samp>Socials</samp></h1>
 <p align="center">
       <a href="https://www.linkedin.com/in/markuusche" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0088CC?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,7 +34,8 @@
       </a>
       <a href="https://t.me/gloofo" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-0088CC?&style=for-the-badge&logo=telegram&logoColor=white" />
-      </a> 
+      </a>
+
 </p>
 <h1 align="center"> <samp>What I know</samp></h1>
 
@@ -52,9 +52,9 @@
   <img src="https://img.shields.io/badge/JSON-17202C?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
   <img src="https://img.shields.io/badge/Jira-0078d7?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Swagger-7CFF00?style=for-the-badge&logo=swagger&logoColor=black" alt="Selenium">
   <img src="https://img.shields.io/badge/Selenium-3C8900?style=for-the-badge&logo=selenium&logoColor=white" alt="Swagger">
   <br>
+  <img src="https://img.shields.io/badge/Swagger-7CFF00?style=for-the-badge&logo=swagger&logoColor=black" alt="Selenium">
   <img src="https://img.shields.io/badge/Gitlab-F05032?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab">
   <img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Github">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
