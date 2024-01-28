@@ -4,13 +4,12 @@ Hello there !  👋<br>
     <br>
     「 I like to type codes that glows 」
     <br>
-    <br>
   </samp>
 </p>
 
 
  <h1 align="center">
- <samp>About me 
+ <samp>— About me —
          
  </h1>
  </samp>
@@ -20,11 +19,11 @@ Hello there !  👋<br>
 I enjoy writing code, but debugging isn't my favorite part. <br>
 Lately, I've been curious about why the code works. <br>
 If you're curious too, you can reach out to me @ <a href="mailto:markuusche@gmail.com">markuusche@gmail.com</a> <br>
-I do enjoy fantasizing about how the code will work.
+Too much curiousity, even in my dreams I'm still debugging.
 </samp>
  </p>
 
-<h1 align="center"><samp>Socials</samp></h1>
+<h1 align="center"><samp>— Socials —</samp></h1>
 <p align="center">
       <a href="https://www.linkedin.com/in/markuusche" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0088CC?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -37,7 +36,7 @@ I do enjoy fantasizing about how the code will work.
       </a>
 
 </p>
-<h1 align="center"> <samp>What I know</samp></h1>
+<h1 align="center"> <samp>:: What I know ::</samp></h1>
 
   
 <p align="center">
