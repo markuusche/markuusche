@@ -59,5 +59,6 @@ Too much curiousity, even in my dreams I'm still debugging.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/MSSQL-593D88?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="MSSQL">
   <img src="https://img.shields.io/badge/Photoshop-0078d7?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
+  <br>
 </p>
  
