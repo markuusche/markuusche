@@ -56,7 +56,7 @@ Too much curiousity, even in my dreams I'm still debugging.
   <br>
   <img src="https://img.shields.io/badge/Swagger-7CFF00?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
   <img src="https://img.shields.io/badge/Gitlab-F05032?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab">
-  <img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Github">
+  <img src="https://img.shields.io/badge/Github-17202C?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/MSSQL-593D88?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="MSSQL">
   <img src="https://img.shields.io/badge/Photoshop-0078d7?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
