@@ -76,6 +76,9 @@ Too much curiousity, even in my dreams I'm still debugging.
   <a href="https://github.com/gloofo/Red-X-Cross">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gloofo&repo=Red-X-Cross&border_color=0078d7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7" alt="Red-X-Cross">
   </a>
+  <a href="https://github.com/gloofo/Sikuli-GUI-Automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gloofo&repo=Sikuli-GUI-Automation&border_color=0078d7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7" alt="Sikuli GUI Automation">
+  </a>
 </p>
 
 
