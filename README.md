@@ -2,7 +2,7 @@
 
 <p align="center"> <b>:: About me ::</b></p>
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=gloofo&cc=white&tc=fff&ic=fff&bc=FFFFFF" />
+<img src="https://github-stats-alpha.vercel.app/api?username=gloofo&cc=white&tc=8E8E8E&ic=008FFF&bc=008FFF" />
 </p>
 <p align="center"> 
 <em>— Currently working as a Software QA Engineer —</em><br>
