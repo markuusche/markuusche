@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloofo&layout=compact&&title_color=fff&bg_color=151515&icon_color=f9f9f9&text_color=9f9f9f" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloofo&layout=compact&&title_color=fff&bg_color=0D1117&icon_color=f9f9f9&text_color=9f9f9f" />
 </p>
 
 
