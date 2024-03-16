@@ -1,4 +1,4 @@
-<p align="center"> Hello 👋</p>
+ <h1><p align="center">< Hello 👋 ></p></h1>
 
 <p align="center"> <b>:: About me ::</b></p>
 
@@ -10,10 +10,10 @@
 </p>
 <p align="center">
       <a href="https://www.linkedin.com/in/markuusche" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0088CC?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-0088CC?logo=linkedin&logoColor=white" />
       </a>
       <a href="https://t.me/gloofo" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-0088CC?&style=for-the-badge&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-0088CC?&logo=telegram&logoColor=white" />
       </a>
 </p>
 <p align="center"><b>:: Tech Stack ::</b></p>
@@ -23,10 +23,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=postman,selenium,docker,visualstudio,vscode,ps" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/robot-3C8900?logo=robotframework&logoColor=white" >
- <img src="https://img.shields.io/badge/Jira-0078d7?logo=jira&logoColor=white" alt="Jira">
- </p>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloofo&layout=compact&&title_color=fff&bg_color=151515&icon_color=f9f9f9&text_color=9f9f9f" />
 </p>
