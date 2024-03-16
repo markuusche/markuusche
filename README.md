@@ -1,7 +1,9 @@
  <h1><p align="center">< Hello 👋 ></p></h1>
 
 <p align="center"> <b>:: About me ::</b></p>
-
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=gloofo&cc=white&tc=fff&ic=fff&bc=FFFFFF" />
+</p>
 <p align="center"> 
 <em>— Currently working as a Software QA Engineer —</em><br>
 </p>
