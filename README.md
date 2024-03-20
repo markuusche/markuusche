@@ -4,6 +4,7 @@
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=gloofo&cc=white&tc=8E8E8E&ic=008FFF&bc=8E8E8E" />
 </p>
+
 <p align="center"> 
 <em>— Currently working as a Software QA Engineer —</em><br>
 </p>
@@ -27,6 +28,6 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloofo&layout=compact&title_color=000&text_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloofo&layout=compact&title_color=8E8E8E&text_color=8E8E8E&theme=transparent" />
 </p>
 
