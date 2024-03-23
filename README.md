@@ -2,7 +2,7 @@
 
 <p align="center"> <b>:: About me ::</b></p>
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=gloofo&cc=000&tc=fff&ic=fff" />
+<img src="https://github-stats-alpha.vercel.app/api?username=gloofo&cc=white&tc=8E8E8E&ic=008FFF&bc=E3E3E3" />
 </p>
 
 <p align="center"> 
