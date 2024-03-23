@@ -2,7 +2,7 @@
 
 <p align="center"> <b>:: About me ::</b></p>
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=gloofo&cc=white&tc=939393&ic=0059FF&bc=8E8E8E" />
+<img src="https://github-stats-alpha.vercel.app/api?username=gloofo&cc=000&tc=fff&ic=fff" />
 </p>
 
 <p align="center"> 
@@ -28,5 +28,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloofo&layout=compact&title_color=0059FF&text_color=939393&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloofo&hide_progress=true&title_color=0059FF&text_color=939393&theme=transparent" />
 </p>
