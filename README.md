@@ -21,12 +21,16 @@
 </p>
 <p align="center"><b>:: Tech Stack ::</b></p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,github,gitlab,git" />
+    <img src="https://skillicons.dev/icons?i=py,js,github,gitlab,git,selenium,vscode" />
+ </br>
+    <img src="https://skillicons.dev/icons?i=postman,html,css" />&nbsp;
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/jira-dark.svg" width="48"></a>&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker,visualstudio,ps" />
+ </br>
+    <a>&nbsp<img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg" width="48"></a>&nbsp;
+    <a><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pytest-dark.svg" width="48"></a>&nbsp;
+    <a"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/appium-dark.svg" width="48"></a>&nbsp;
 </p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=postman,selenium,docker,visualstudio,vscode,ps" />
-</p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloofo&hide_progress=true&title_color=008FFF&text_color=939393&theme=transparent" />
 </p>
