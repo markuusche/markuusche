@@ -2,7 +2,7 @@
 
 <p align="center"> <b>:: About me ::</b></p>
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=bL4qck&cc=white&tc=8E8E8E&ic=008FFF&bc=E3E3E3" />
+<img src="https://github-stats-alpha.vercel.app/api?username=markuusche&cc=white&tc=8E8E8E&ic=008FFF&bc=E3E3E3" />
 </p>
 
 <p align="center"> 
@@ -15,7 +15,7 @@
       <a href="https://www.linkedin.com/in/markuusche" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0088CC?logo=linkedin&logoColor=white" />
       </a>
-      <a href="https://t.me/bL4qck" target="_blank">
+      <a href="https://t.me/markuusche" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-0088CC?&logo=telegram&logoColor=white" />
       </a>
 </p>
@@ -32,5 +32,5 @@
     <a"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/appium-dark.svg" width="48"></a>&nbsp;
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bL4qck&layout=compact&title_color=008FFF&text_color=939393&theme=transparent&card_width=400&" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuusche&layout=compact&title_color=008FFF&text_color=939393&theme=transparent&card_width=400&" />
 </p>
