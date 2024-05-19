@@ -27,6 +27,7 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/jira-dark.svg" width="48"></a>&nbsp;
     <img src="https://skillicons.dev/icons?i=docker,visualstudio,ps" />
  </br>
+    <img src="https://skillicons.dev/icons?i=githubactions" />
     <a>&nbsp<img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg" width="48"></a>&nbsp;
     <a><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pytest-dark.svg" width="48"></a>&nbsp;
     <a"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/appium-dark.svg" width="48"></a>&nbsp;
