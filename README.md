@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="150" src="https://i.ibb.co/n6SZcbz/bonf.gif"  />
+</div>
  <h1><p align="center">< Hello 👋 ></p></h1>
 
 <p align="center"> <b>:: About me ::</b></p>
