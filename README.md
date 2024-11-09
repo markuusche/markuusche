@@ -37,5 +37,5 @@
     <a"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/appium-dark.svg" width="48"></a>&nbsp;
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuusche&layout=compact&title_color=008FFF&text_color=939393&theme=transparent&card_width=400&" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuusche&layout=compact&title_color=008FFF&text_color=939393&theme=transparent&card_width=405&" />
 </p>
