@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"> 
-<em>— Currently working as a Software QA Engineer —</em><br>
+<em>— Currently working as a Automation Engineer —</em><br>
 </p>
 <p align="center">
     <em>"Typing code is really nice, but debugging isn't my favorite part,</em><br><em>Lately, I've been curious about why the code works"</em>
