@@ -34,5 +34,11 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,cypress,pytest&theme=dark">
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuusche&layout=compact&title_color=008FFF&text_color=939393&theme=transparent&card_width=405&" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=markuusche&show_icons=false&custom_title=Overall%20Languages%20Used&hide_rank=true&card_width=500&layout=compact&theme=transparent" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=markuusche&&theme=transparent" alt="GitHub Streak" />
+</p>
+
+
