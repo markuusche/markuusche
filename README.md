@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/Telegram-0088CC?&logo=telegram&logoColor=white" />
       </a>
 </p>
-<p align="center"><b>:: Tech Stack ::</b></p>
+<p align="center"><b>:: Languages & Tools ::</b></p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,github,gitlab,git,selenium,vscode"/>
  </br>
@@ -31,7 +31,11 @@
     <img src="https://skillicons.dev/icons?i=docker,visualstudio,ps" />
  </br>
     <img src="https://skillicons.dev/icons?i=githubactions" />&nbsp;
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,cypress,pytest&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,pytest&theme=dark">&nbsp;
+    <img src="https://github.com/naptha/tesseract.js/blob/master/docs/images/tesseract_dark.png"" width="48">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&titles=true" />&nbsp;
+    <img src="https://github.com/sikuli/sikuli/blob/develop/art-work/ide-icon-16.png" width="48">
+ </br>
 </p>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=markuusche&show_icons=false&custom_title=Overall%20Languages%20Used&hide_rank=true&card_width=500&layout=compact&theme=transparent" />
