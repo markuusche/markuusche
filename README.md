@@ -24,15 +24,18 @@
 </p>
 <p align="center"><b>:: Languages & Tools ::</b></p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,github,gitlab,git,selenium,vscode"/>
+    <img src="https://skillicons.dev/icons?i=py,js,github,gitlab,git"/>&nbsp
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash&titles=true" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=selenium"/>
  </br>
     <img src="https://skillicons.dev/icons?i=postman,html,css"/>&nbsp;
     <img src="https://go-skill-icons.vercel.app/api/icons?i=jira&theme=dark" width="48"></a>&nbsp;
-    <img src="https://skillicons.dev/icons?i=docker,visualstudio,ps" />
+    <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio" />
  </br>
     <img src="https://skillicons.dev/icons?i=githubactions" />&nbsp;
     <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,pytest&theme=dark">&nbsp;
     <img src="https://github.com/naptha/tesseract.js/blob/master/docs/images/tesseract_dark.png"" width="48">
+    <img src="https://github.com/appium/appium/blob/master/packages/base-driver/static/appium.png" width="48">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&titles=true" />&nbsp;
     <img src="https://github.com/sikuli/sikuli/blob/develop/art-work/ide-icon-16.png" width="48">
  </br>
